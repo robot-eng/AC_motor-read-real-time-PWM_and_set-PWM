@@ -13,3 +13,8 @@ credit : https://www.youtube.com/watch?v=RG787UanQQ8
 <p align="center">
   <img src="/AC_motor_PID_control/1.png" />
 </p>
+
+### การต่อวงจรที่แกะจากลายวงจร การต่อคราวๆ
+<p align="center">
+  <img src="/AC_motor_PID_control/Doc1-1.png" />
+</p>
