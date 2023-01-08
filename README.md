@@ -1,6 +1,6 @@
 # read-real-time-PWM-and-set-PWM
 
-### pattern circuit
+### Pattern circuit
 
 credit : https://www.youtube.com/watch?v=RG787UanQQ8
 
